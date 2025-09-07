@@ -28,7 +28,7 @@ Incluye pruebas de **funcionalidad, accesibilidad y rendimiento**, con reporter√
 
 ### 1. Clonar el proyecto
 ```bash
-git clone URLLLLLLL FALTAAAAAA
+git https://github.com/BorisMatrix1200/Entrega_Double_v_Partners.git
 cd carpeta del proyecto
 ```
 

@@ -16,6 +16,10 @@ El objetivo es asegurar que el backend esté listo antes de que el front-end est
 8. [Informe de ejecución](#-informe-de-ejecución)  
 
 =====================================
+## Clonar proyecto de Git
+Ejecuta el comando en git:
+- Git clone https://github.com/BorisMatrix1200/Entrega_Double_v_Partners.git
+- cd <Direccion de la carpeta del proyecto>
 
 ## API Testing
 La tienda en línea **Your Store** está desarrollando una nueva versión de su sitio web.  
