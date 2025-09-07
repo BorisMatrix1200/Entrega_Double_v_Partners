@@ -1,0 +1,163 @@
+{
+  "config": {
+    "configFile": "D:\\Entrega_Double_v_Partners\\Punto_2_playwright_pom_DoubleVPartners\\playwright.config.ts",
+    "rootDir": "D:/Entrega_Double_v_Partners/Punto_2_playwright_pom_DoubleVPartners/tests",
+    "forbidOnly": false,
+    "fullyParallel": true,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "report.json"
+        }
+      ],
+      [
+        "D:\\Entrega_Double_v_Partners\\Punto_2_playwright_pom_DoubleVPartners\\node_modules\\allure-playwright\\dist\\cjs\\index.js",
+        null
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "D:/Entrega_Double_v_Partners/Punto_2_playwright_pom_DoubleVPartners/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "chromium",
+        "name": "chromium",
+        "testDir": "D:/Entrega_Double_v_Partners/Punto_2_playwright_pom_DoubleVPartners/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      }
+    ],
+    "shard": null,
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "3way",
+    "version": "1.55.0",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "test_Double_Partners.spec.ts",
+      "file": "test_Double_Partners.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Purchase Flow",
+          "file": "test_Double_Partners.spec.ts",
+          "line": 11,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Purchase Flow Complete",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 90000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "chromium",
+                  "projectName": "chromium",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 40533,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "steps": [
+                        {
+                          "title": "Add product",
+                          "duration": 6485
+                        },
+                        {
+                          "title": "Register user",
+                          "duration": 9440
+                        },
+                        {
+                          "title": "Forgotten Password",
+                          "duration": 3412
+                        },
+                        {
+                          "title": "Login",
+                          "duration": 1171
+                        },
+                        {
+                          "title": "Add product to cart",
+                          "duration": 3444
+                        },
+                        {
+                          "title": "Search product",
+                          "duration": 1161
+                        },
+                        {
+                          "title": "View cart and delete product",
+                          "duration": 648
+                        },
+                        {
+                          "title": "Change quantity product",
+                          "duration": 440
+                        },
+                        {
+                          "title": "Confirm purchase",
+                          "duration": 13865
+                        }
+                      ],
+                      "startTime": "2025-09-07T21:06:04.836Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "7f04c28896f7f87dc8bc-04ca572eef4aba22f27c",
+              "file": "test_Double_Partners.spec.ts",
+              "line": 13,
+              "column": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2025-09-07T21:06:03.320Z",
+    "duration": 42544.81,
+    "expected": 1,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

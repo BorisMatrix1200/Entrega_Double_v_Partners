@@ -1,0 +1,259 @@
+  LH:status Connecting to browser +0ms
+  LH:status Navigating to about:blank +13ms
+  LH:status Benchmarking machine +5ms
+  LH:status Host device pixel ratio +1s
+  LH:status Preparing target for navigation mode +3ms
+  LH:status Cleaning origin data +18ms
+  LH:status Cleaning browser cache +14ms
+  LH:status Preparing network conditions +16ms
+  LH:status Navigating to https://automationexercise.com/ +62ms
+  LH:status Getting artifact: DevtoolsLog +9s
+  LH:status Getting artifact: Trace +0ms
+  LH:status Getting artifact: Accessibility +0ms
+  LH:status Getting artifact: ConsoleMessages +651ms
+  LH:status Getting artifact: CSSUsage +0ms
+  LH:status Getting artifact: DOMStats +98ms
+  LH:status Getting artifact: ImageElements +5ms
+  LH:status Getting artifact: JsUsage +428ms
+  LH:status Getting artifact: LinkElements +1ms
+  LH:status Getting artifact: MetaElements +12ms
+  LH:status Getting artifact: NetworkUserAgent +5ms
+  LH:status Getting artifact: OptimizedImages +0ms
+  LH:status Getting artifact: ResponseCompression +3s
+  LH:status Getting artifact: Scripts +3ms
+  LH:status Getting artifact: SourceMaps +0ms
+  LH:status Getting artifact: Stacks +0ms
+  LH:status Collect stacks +1ms
+  LH:status Getting artifact: Stylesheets +11ms
+  LH:status Getting artifact: TraceElements +16ms
+  LH:status Trace Engine total +121ms
+  LH:status Trace Engine parse +0ms
+  LH:status Trace Engine parse:handleEvent +2ms
+  LH:status Trace Engine parse:Meta:finalize +289ms
+  LH:status Trace Engine parse:AnimationFrames:finalize +10ms
+  LH:status Trace Engine parse:Animations:finalize +27ms
+  LH:status Trace Engine parse:Samples:finalize +17ms
+  LH:status Trace Engine parse:AuctionWorklets:finalize +15ms
+  LH:status Trace Engine parse:NetworkRequests:finalize +16ms
+  LH:status Trace Engine parse:Renderer:finalize +21ms
+  LH:status Trace Engine parse:Flows:finalize +103ms
+  LH:status Trace Engine parse:AsyncJSCalls:finalize +28ms
+  LH:status Trace Engine parse:DOMStats:finalize +17ms
+  LH:status Trace Engine parse:UserTimings:finalize +1ms
+  LH:status Trace Engine parse:ExtensionTraceData:finalize +10ms
+  LH:status Trace Engine parse:LayerTree:finalize +16ms
+  LH:status Trace Engine parse:Frames:finalize +17ms
+  LH:status Trace Engine parse:GPU:finalize +56ms
+  LH:status Trace Engine parse:ImagePainting:finalize +6ms
+  LH:status Trace Engine parse:Initiators:finalize +13ms
+  LH:status Trace Engine parse:Invalidations:finalize +21ms
+  LH:status Trace Engine parse:PageLoadMetrics:finalize +10ms
+  LH:status Trace Engine parse:LargestImagePaint:finalize +17ms
+  LH:status Trace Engine parse:LargestTextPaint:finalize +10ms
+  LH:status Trace Engine parse:Screenshots:finalize +1ms
+  LH:status Trace Engine parse:LayoutShifts:finalize +39ms
+  LH:status Trace Engine parse:Memory:finalize +6ms
+  LH:status Trace Engine parse:PageFrames:finalize +2ms
+  LH:status Trace Engine parse:Scripts:finalize +1ms
+  LH:status Trace Engine parse:SelectorStats:finalize +8ms
+  LH:status Trace Engine parse:UserInteractions:finalize +2ms
+  LH:status Trace Engine parse:Workers:finalize +3ms
+  LH:status Trace Engine parse:Warnings:finalize +1ms
+  LH:status Trace Engine parse:clone +2ms
+  LH:status Trace Engine insights +21ms
+  LH:status Trace Engine insights:CLSCulprits +1ms
+  LH:status Trace Engine insights:Cache +2ms
+  LH:status Trace Engine insights:DOMSize +1ms
+  LH:status Trace Engine insights:DocumentLatency +0ms
+  LH:status Trace Engine insights:DuplicatedJavaScript +0ms
+  LH:status Trace Engine insights:FontDisplay +2ms
+  LH:status Trace Engine insights:ForcedReflow +0ms
+  LH:status Trace Engine insights:INPBreakdown +0ms
+  LH:status Trace Engine insights:ImageDelivery +1ms
+  LH:status Trace Engine insights:LCPBreakdown +2ms
+  LH:status Trace Engine insights:LCPDiscovery +1ms
+  LH:status Trace Engine insights:LegacyJavaScript +1ms
+  LH:status Trace Engine insights:ModernHTTP +0ms
+  LH:status Trace Engine insights:NetworkDependencyTree +1ms
+  LH:status Trace Engine insights:RenderBlocking +0ms
+  LH:status Trace Engine insights:SlowCSSSelector +0ms
+  LH:status Trace Engine insights:ThirdParties +1ms
+  LH:status Trace Engine insights:Viewport +3ms
+  LH:status Trace Engine insights:createLanternContext +2ms
+  LH:status Trace Engine insights:CLSCulprits +84ms
+  LH:status Trace Engine insights:Cache +1ms
+  LH:status Trace Engine insights:DOMSize +3ms
+  LH:status Trace Engine insights:DocumentLatency +0ms
+  LH:status Trace Engine insights:DuplicatedJavaScript +1ms
+  LH:status Trace Engine insights:FontDisplay +2ms
+  LH:status Trace Engine insights:ForcedReflow +1ms
+  LH:status Trace Engine insights:INPBreakdown +3ms
+  LH:status Trace Engine insights:ImageDelivery +1ms
+  LH:status Trace Engine insights:LCPBreakdown +2ms
+  LH:status Trace Engine insights:LCPDiscovery +1ms
+  LH:status Trace Engine insights:LegacyJavaScript +0ms
+  LH:status Trace Engine insights:ModernHTTP +0ms
+  LH:status Trace Engine insights:NetworkDependencyTree +2ms
+  LH:status Trace Engine insights:RenderBlocking +3ms
+  LH:status Trace Engine insights:SlowCSSSelector +1ms
+  LH:status Trace Engine insights:ThirdParties +2ms
+  LH:status Trace Engine insights:Viewport +27ms
+  LH:method <= browser ERR:error DOM.resolveNode  +0ms
+  LH:method <= browser ERR:error DOM.resolveNode  +1ms
+  LH:method <= browser ERR:error DOM.resolveNode  +3ms
+  LH:method <= browser ERR:error DOM.resolveNode  +2ms
+  LH:method <= browser ERR:error DOM.resolveNode  +2ms
+  LH:method <= browser ERR:error DOM.resolveNode  +1ms
+  LH:method <= browser ERR:error DOM.resolveNode  +1ms
+  LH:status Getting artifact: ViewportDimensions +148ms
+  LH:status Getting artifact: FullPageScreenshot +3ms
+  LH:status Getting artifact: BFCacheFailures +2s
+  LH:status Analyzing and running audits... +406ms
+  LH:status Auditing: Has a `<meta name="viewport">` tag with `width` or `initial-scale` +2ms
+  LH:status Auditing: First Contentful Paint +5ms
+  LH:status Auditing: Largest Contentful Paint +57ms
+  LH:status Auditing: First Meaningful Paint +6ms
+  LH:status Auditing: Speed Index +3ms
+  LH:status Auditing: Screenshot Thumbnails +257ms
+  LH:status Auditing: Final Screenshot +1ms
+  LH:status Auditing: Total Blocking Time +6ms
+  LH:status Auditing: Max Potential First Input Delay +12ms
+  LH:status Auditing: Cumulative Layout Shift +6ms
+  LH:status Auditing: Initial server response time was short +3ms
+  LH:status Auditing: Time to Interactive +2ms
+  LH:status Auditing: User Timing marks and measures +2ms
+  LH:status Auditing: Avoid chaining critical requests +5ms
+  LH:status Auditing: Avoid multiple page redirects +3ms
+  LH:status Auditing: Minimizes main-thread work +6ms
+  LH:status Auditing: JavaScript execution time +43ms
+  LH:status Auditing: Preconnect to required origins +23ms
+  LH:status Auditing: All text remains visible during webfont loads +3ms
+  LH:status Auditing: Diagnostics +3ms
+  LH:status Auditing: Network Requests +1ms
+  LH:status Auditing: Network Round Trip Times +6ms
+  LH:status Auditing: Server Backend Latencies +3ms
+  LH:status Auditing: Tasks +2ms
+  LH:status Auditing: Metrics +1ms
+  LH:status Auditing: Resources Summary +6ms
+  LH:status Auditing: Minimize third-party usage +2ms
+  LH:status Auditing: Lazy load third-party resources with facades +6ms
+  LH:status Auditing: Largest Contentful Paint element +3ms
+  LH:status Auditing: Largest Contentful Paint image was not lazily loaded +3ms
+  LH:status Auditing: Avoid large layout shifts +2ms
+  LH:status Auditing: Avoid long main-thread tasks +1ms
+  LH:status Auditing: Avoid non-composited animations +19ms
+  LH:status Auditing: Image elements have explicit `width` and `height` +1ms
+  LH:status Auditing: Preload Largest Contentful Paint image +5ms
+  LH:status Auditing: Script Treemap Data +1ms
+  LH:status Auditing: `[accesskey]` values are unique +25ms
+  LH:status Auditing: `[aria-*]` attributes match their roles +1ms
+  LH:status Auditing: Uses ARIA roles only on compatible elements +3ms
+  LH:status Auditing: `button`, `link`, and `menuitem` elements have accessible names +2ms
+  LH:status Auditing: ARIA attributes are used as specified for the element's role +2ms
+  LH:status Auditing: Deprecated ARIA roles were not used +2ms
+  LH:status Auditing: Elements with `role="dialog"` or `role="alertdialog"` have accessible names. +1ms
+  LH:status Auditing: `[aria-hidden="true"]` is not present on the document `<body>` +3ms
+  LH:status Auditing: `[aria-hidden="true"]` elements do not contain focusable descendents +12ms
+  LH:status Auditing: ARIA input fields have accessible names +3ms
+  LH:status Auditing: ARIA `meter` elements have accessible names +2ms
+  LH:status Auditing: ARIA `progressbar` elements have accessible names +2ms
+  LH:status Auditing: Elements use only permitted ARIA attributes +3ms
+  LH:status Auditing: `[role]`s have all required `[aria-*]` attributes +11ms
+  LH:status Auditing: Elements with an ARIA `[role]` that require children to contain a specific `[role]` have all required children. +2ms
+  LH:status Auditing: `[role]`s are contained by their required parent element +1ms
+  LH:status Auditing: `[role]` values are valid +2ms
+  LH:status Auditing: Elements with the `role=text` attribute do not have focusable descendents. +12ms
+  LH:status Auditing: ARIA toggle fields have accessible names +3ms
+  LH:status Auditing: ARIA `tooltip` elements have accessible names +7ms
+  LH:status Auditing: ARIA `treeitem` elements have accessible names +3ms
+  LH:status Auditing: `[aria-*]` attributes have valid values +1ms
+  LH:status Auditing: `[aria-*]` attributes are valid and not misspelled +3ms
+  LH:status Auditing: Buttons have an accessible name +2ms
+  LH:status Auditing: The page contains a heading, skip link, or landmark region +3ms
+  LH:status Auditing: Background and foreground colors have a sufficient contrast ratio +11ms
+  LH:status Auditing: `<dl>`'s contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements. +3ms
+  LH:status Auditing: Definition list items are wrapped in `<dl>` elements +1ms
+  LH:status Auditing: Document has a `<title>` element +1ms
+  LH:status Auditing: ARIA IDs are unique +3ms
+  LH:status Auditing: All heading elements contain content. +4ms
+  LH:status Auditing: No form fields have multiple labels +2ms
+  LH:status Auditing: `<frame>` or `<iframe>` elements have a title +3ms
+  LH:status Auditing: Heading elements appear in a sequentially-descending order +2ms
+  LH:status Auditing: `<html>` element has a `[lang]` attribute +11ms
+  LH:status Auditing: `<html>` element has a valid value for its `[lang]` attribute +3ms
+  LH:status Auditing: `<html>` element has an `[xml:lang]` attribute with the same base language as the `[lang]` attribute. +3ms
+  LH:status Auditing: Identical links have the same purpose. +1ms
+  LH:status Auditing: Image elements have `[alt]` attributes +2ms
+  LH:status Auditing: Image elements do not have `[alt]` attributes that are redundant text. +4ms
+  LH:status Auditing: Input buttons have discernible text. +3ms
+  LH:status Auditing: `<input type="image">` elements have `[alt]` text +2ms
+  LH:status Auditing: Elements with visible text labels have matching accessible names. +11ms
+  LH:status Auditing: Form elements have associated labels +6ms
+  LH:status Auditing: Document has a main landmark. +5ms
+  LH:status Auditing: Links have a discernible name +6ms
+  LH:status Auditing: Links are distinguishable without relying on color. +6ms
+  LH:status Auditing: Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`). +3ms
+  LH:status Auditing: List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements +7ms
+  LH:status Auditing: The document does not use `<meta http-equiv="refresh">` +20ms
+  LH:status Auditing: `[user-scalable="no"]` is not used in the `<meta name="viewport">` element and the `[maximum-scale]` attribute is not less than 5. +4ms
+  LH:status Auditing: `<object>` elements have alternate text +5ms
+  LH:status Auditing: Select elements have associated label elements. +16ms
+  LH:status Auditing: Skip links are focusable. +5ms
+  LH:status Auditing: No element has a `[tabindex]` value greater than 0 +7ms
+  LH:status Auditing: Tables have different content in the summary attribute and `<caption>`. +4ms
+  LH:status Auditing: Tables use `<caption>` instead of cells with the `[colspan]` attribute to indicate a caption. +1ms
+  LH:status Auditing: Touch targets have sufficient size and spacing. +2ms
+  LH:status Auditing: `<td>` elements in a large `<table>` have one or more table headers. +4ms
+  LH:status Auditing: Cells in a `<table>` element that use the `[headers]` attribute refer to table cells within the same table. +2ms
+  LH:status Auditing: `<th>` elements and elements with `[role="columnheader"/"rowheader"]` have data cells they describe. +3ms
+  LH:status Auditing: `[lang]` attributes have a valid value +2ms
+  LH:status Auditing: `<video>` elements contain a `<track>` element with `[kind="captions"]` +2ms
+  LH:status Auditing: Custom controls have associated labels +1ms
+  LH:status Auditing: Custom controls have ARIA roles +1ms
+  LH:status Auditing: User focus is not accidentally trapped in a region +0ms
+  LH:status Auditing: Interactive controls are keyboard focusable +0ms
+  LH:status Auditing: Interactive elements indicate their purpose and state +0ms
+  LH:status Auditing: The page has a logical tab order +0ms
+  LH:status Auditing: The user's focus is directed to new content added to the page +0ms
+  LH:status Auditing: Offscreen content is hidden from assistive technology +0ms
+  LH:status Auditing: HTML5 landmark elements are used to improve navigation +0ms
+  LH:status Auditing: Visual order on the page follows DOM order +0ms
+  LH:status Auditing: Uses efficient cache policy on static assets +0ms
+  LH:status Auditing: Avoids enormous network payloads +12ms
+  LH:status Auditing: Defer offscreen images +1ms
+  LH:status Auditing: Eliminate render-blocking resources +4ms
+  LH:status Auditing: Minify CSS +2ms
+  LH:status Auditing: Minify JavaScript +26ms
+  LH:status Auditing: Reduce unused CSS +54ms
+  LH:status Auditing: Reduce unused JavaScript +2ms
+  LH:status Auditing: Serve images in next-gen formats +6ms
+  LH:status Auditing: Efficiently encode images +3ms
+  LH:status Auditing: Enable text compression +4ms
+  LH:status Auditing: Properly size images +2ms
+  LH:status Auditing: Use video formats for animated content +6ms
+  LH:status Auditing: Remove duplicate modules in JavaScript bundles +4ms
+  LH:status Auditing: Avoid serving legacy JavaScript to modern browsers +3ms
+  LH:status Auditing: Avoids an excessive DOM size +48ms
+  LH:status Auditing: Avoids `document.write()` +2ms
+  LH:status Auditing: Use HTTP/2 +1ms
+  LH:status Auditing: Uses passive listeners to improve scrolling performance +2ms
+  LH:status Auditing: Page didn't prevent back/forward cache restoration +1ms
+  LH:status Auditing: Use efficient cache lifetimes +0ms
+  LH:status Auditing: Layout shift culprits +2ms
+  LH:status Auditing: Document request latency +1ms
+  LH:status Auditing: Optimize DOM size +2ms
+  LH:status Auditing: Duplicated JavaScript +2ms
+  LH:status Auditing: Font display +1ms
+  LH:status Auditing: Forced reflow +1ms
+  LH:status Auditing: Improve image delivery +6ms
+  LH:status Auditing: INP breakdown +2ms
+  LH:status Auditing: LCP breakdown +1ms
+  LH:status Auditing: LCP request discovery +1ms
+  LH:status Auditing: Legacy JavaScript +1ms
+  LH:status Auditing: Modern HTTP +3ms
+  LH:status Auditing: Network dependency tree +1ms
+  LH:status Auditing: Render blocking requests +1ms
+  LH:status Auditing: 3rd parties +3ms
+  LH:status Auditing: Optimize viewport for mobile +25ms
+  LH:status Generating results... +7ms
+  LH:ChromeLauncher Killing Chrome instance 3808 +0ms

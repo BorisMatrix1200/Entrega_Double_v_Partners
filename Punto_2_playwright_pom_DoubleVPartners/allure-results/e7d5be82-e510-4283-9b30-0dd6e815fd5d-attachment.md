@@ -1,0 +1,186 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - button "$ Currency " [ref=e7] [cursor=pointer]:
+        - strong [ref=e8] [cursor=pointer]: $
+        - generic [ref=e9] [cursor=pointer]: Currency
+        - generic [ref=e10] [cursor=pointer]: 
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link "" [ref=e14] [cursor=pointer]:
+            - /url: http://opencart.abstracta.us:80/index.php?route=information/contact
+            - generic [ref=e15] [cursor=pointer]: 
+          - generic [ref=e16]: "123456789"
+        - listitem [ref=e17]:
+          - link " My Account" [ref=e18] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=account/account
+            - generic [ref=e19] [cursor=pointer]: 
+            - generic [ref=e20] [cursor=pointer]: My Account
+        - listitem [ref=e22]:
+          - link " Wish List (0)" [ref=e23] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=account/wishlist
+            - generic [ref=e24] [cursor=pointer]: 
+            - generic [ref=e25] [cursor=pointer]: Wish List (0)
+        - listitem [ref=e26]:
+          - link " Shopping Cart" [ref=e27] [cursor=pointer]:
+            - /url: http://opencart.abstracta.us:80/index.php?route=checkout/cart
+            - generic [ref=e28] [cursor=pointer]: 
+            - generic [ref=e29] [cursor=pointer]: Shopping Cart
+        - listitem [ref=e30]:
+          - link " Checkout" [ref=e31] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=checkout/checkout
+            - generic [ref=e32] [cursor=pointer]: 
+            - generic [ref=e33] [cursor=pointer]: Checkout
+  - banner [ref=e34]:
+    - generic [ref=e36]:
+      - heading "Your Store" [level=1] [ref=e39]:
+        - link "Your Store" [ref=e40] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=common/home
+      - generic [ref=e42]:
+        - textbox "Search" [ref=e43]
+        - button "" [ref=e45] [cursor=pointer]:
+          - generic [ref=e46] [cursor=pointer]: 
+      - button " 0 item(s) - $0.00" [ref=e49] [cursor=pointer]:
+        - generic [ref=e50] [cursor=pointer]: 
+        - generic [ref=e51] [cursor=pointer]: 0 item(s) - $0.00
+  - navigation [ref=e53]:
+    - generic: 
+    - list [ref=e55]:
+      - listitem [ref=e56]:
+        - link "Desktops" [ref=e57] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=20
+      - listitem [ref=e58]:
+        - link "Laptops & Notebooks" [ref=e59] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=18
+      - listitem [ref=e60]:
+        - link "Components" [ref=e61] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=25
+      - listitem [ref=e62]:
+        - link "Tablets" [ref=e63] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=57
+      - listitem [ref=e64]:
+        - link "Software" [ref=e65] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=17
+      - listitem [ref=e66]:
+        - link "Phones & PDAs" [ref=e67] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=24
+      - listitem [ref=e68]:
+        - link "Cameras" [ref=e69] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=33
+      - listitem [ref=e70]:
+        - link "MP3 Players" [ref=e71] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=34
+  - generic [ref=e72]:
+    - list [ref=e73]:
+      - listitem [ref=e74]:
+        - link "" [ref=e75] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=common/home
+          - generic [ref=e76] [cursor=pointer]: 
+      - listitem [ref=e77]:
+        - link "Shopping Cart" [ref=e78] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=checkout/cart
+      - listitem [ref=e79]:
+        - link "Checkout" [ref=e80] [cursor=pointer]:
+          - /url: https://opencart.abstracta.us:443/index.php?route=checkout/checkout
+      - listitem [ref=e81]:
+        - link "Success" [ref=e82] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=checkout/success
+    - generic [ref=e84]:
+      - heading "Your order has been placed!" [level=1] [ref=e85]
+      - paragraph [ref=e86]: Your order has been successfully processed!
+      - paragraph [ref=e87]:
+        - text: You can view your order history by going to the
+        - link "my account" [ref=e88] [cursor=pointer]:
+          - /url: https://opencart.abstracta.us:443/index.php?route=account/account
+        - text: page and by clicking on
+        - link "history" [ref=e89] [cursor=pointer]:
+          - /url: https://opencart.abstracta.us:443/index.php?route=account/order
+        - text: .
+      - paragraph [ref=e90]:
+        - text: If your purchase has an associated download, you can go to the account
+        - link "downloads" [ref=e91] [cursor=pointer]:
+          - /url: https://opencart.abstracta.us:443/index.php?route=account/download
+        - text: page to view them.
+      - paragraph [ref=e92]:
+        - text: Please direct any questions you have to the
+        - link "store owner" [ref=e93] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=information/contact
+        - text: .
+      - paragraph [ref=e94]: Thanks for shopping with us online!
+      - link "Continue" [ref=e96] [cursor=pointer]:
+        - /url: http://opencart.abstracta.us:80/index.php?route=common/home
+  - contentinfo [ref=e97]:
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - generic [ref=e100]:
+          - heading "Information" [level=5] [ref=e101]
+          - list [ref=e102]:
+            - listitem [ref=e103]:
+              - link "About Us" [ref=e104] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=4
+            - listitem [ref=e105]:
+              - link "Delivery Information" [ref=e106] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=6
+            - listitem [ref=e107]:
+              - link "Privacy Policy" [ref=e108] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=3
+            - listitem [ref=e109]:
+              - link "Terms & Conditions" [ref=e110] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=5
+        - generic [ref=e111]:
+          - heading "Customer Service" [level=5] [ref=e112]
+          - list [ref=e113]:
+            - listitem [ref=e114]:
+              - link "Contact Us" [ref=e115] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/contact
+            - listitem [ref=e116]:
+              - link "Returns" [ref=e117] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/return/add
+            - listitem [ref=e118]:
+              - link "Site Map" [ref=e119] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/sitemap
+        - generic [ref=e120]:
+          - heading "Extras" [level=5] [ref=e121]
+          - list [ref=e122]:
+            - listitem [ref=e123]:
+              - link "Brands" [ref=e124] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=product/manufacturer
+            - listitem [ref=e125]:
+              - link "Gift Certificates" [ref=e126] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/voucher
+            - listitem [ref=e127]:
+              - link "Affiliate" [ref=e128] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=affiliate/login
+            - listitem [ref=e129]:
+              - link "Specials" [ref=e130] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=product/special
+        - generic [ref=e131]:
+          - heading "My Account" [level=5] [ref=e132]
+          - list [ref=e133]:
+            - listitem [ref=e134]:
+              - link "My Account" [ref=e135] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/account
+            - listitem [ref=e136]:
+              - link "Order History" [ref=e137] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/order
+            - listitem [ref=e138]:
+              - link "Wish List" [ref=e139] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/wishlist
+            - listitem [ref=e140]:
+              - link "Newsletter" [ref=e141] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/newsletter
+      - separator [ref=e142]
+      - paragraph [ref=e143]:
+        - text: Powered By
+        - link "OpenCart" [ref=e144] [cursor=pointer]:
+          - /url: http://www.opencart.com
+        - text: Your Store © 2025
+  - generic [ref=e145]:
+    - generic:
+      - link "Bitnami":
+        - /url: /bitnami/index.html
+        - img "Bitnami" [ref=e146] [cursor=pointer]
+```

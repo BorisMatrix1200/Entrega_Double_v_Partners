@@ -1,0 +1,237 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - button "$ Currency " [ref=e7] [cursor=pointer]:
+        - strong [ref=e8] [cursor=pointer]: $
+        - generic [ref=e9] [cursor=pointer]: Currency
+        - generic [ref=e10] [cursor=pointer]: 
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link "" [ref=e14] [cursor=pointer]:
+            - /url: http://opencart.abstracta.us:80/index.php?route=information/contact
+            - generic [ref=e15] [cursor=pointer]: 
+          - generic [ref=e16]: "123456789"
+        - listitem [ref=e17]:
+          - link " My Account" [ref=e18] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=account/account
+            - generic [ref=e19] [cursor=pointer]: 
+            - generic [ref=e20] [cursor=pointer]: My Account
+        - listitem [ref=e22]:
+          - link " Wish List (0)" [ref=e23] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=account/wishlist
+            - generic [ref=e24] [cursor=pointer]: 
+            - generic [ref=e25] [cursor=pointer]: Wish List (0)
+        - listitem [ref=e26]:
+          - link " Shopping Cart" [ref=e27] [cursor=pointer]:
+            - /url: http://opencart.abstracta.us:80/index.php?route=checkout/cart
+            - generic [ref=e28] [cursor=pointer]: 
+            - generic [ref=e29] [cursor=pointer]: Shopping Cart
+        - listitem [ref=e30]:
+          - link " Checkout" [ref=e31] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=checkout/checkout
+            - generic [ref=e32] [cursor=pointer]: 
+            - generic [ref=e33] [cursor=pointer]: Checkout
+  - banner [ref=e34]:
+    - generic [ref=e36]:
+      - heading "Your Store" [level=1] [ref=e39]:
+        - link "Your Store" [ref=e40] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=common/home
+      - generic [ref=e42]:
+        - textbox "Search" [ref=e43]: Samsung Galaxy
+        - button "" [ref=e45] [cursor=pointer]:
+          - generic [ref=e46] [cursor=pointer]: 
+      - generic [ref=e48]:
+        - button " 1 item(s) - $2,000.00" [ref=e49] [cursor=pointer]:
+          - generic [ref=e50] [cursor=pointer]: 
+          - generic [ref=e51] [cursor=pointer]: 1 item(s) - $2,000.00
+        - text:   
+  - navigation [ref=e53]:
+    - generic: 
+    - list [ref=e55]:
+      - listitem [ref=e56]:
+        - link "Desktops" [ref=e57] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=20
+      - listitem [ref=e58]:
+        - link "Laptops & Notebooks" [ref=e59] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=18
+      - listitem [ref=e60]:
+        - link "Components" [ref=e61] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=25
+      - listitem [ref=e62]:
+        - link "Tablets" [ref=e63] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=57
+      - listitem [ref=e64]:
+        - link "Software" [ref=e65] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=17
+      - listitem [ref=e66]:
+        - link "Phones & PDAs" [ref=e67] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=24
+      - listitem [ref=e68]:
+        - link "Cameras" [ref=e69] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=33
+      - listitem [ref=e70]:
+        - link "MP3 Players" [ref=e71] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=34
+  - generic [ref=e72]:
+    - list [ref=e73]:
+      - listitem [ref=e74]:
+        - link "" [ref=e75] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=common/home
+          - generic [ref=e76] [cursor=pointer]: 
+      - listitem [ref=e77]:
+        - link "Search" [ref=e78] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/search&search=Samsung Galaxy
+      - listitem [ref=e79]:
+        - link "Samsung Galaxy Tab 10.1" [ref=e80] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/product&search=Samsung Galaxy&product_id=49
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - list [ref=e85]:
+          - listitem [ref=e86]:
+            - link "Samsung Galaxy Tab 10.1" [ref=e87] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/samsung_tab_1-500x500.jpg
+              - img "Samsung Galaxy Tab 10.1" [ref=e88] [cursor=pointer]
+          - listitem [ref=e89]:
+            - link "Samsung Galaxy Tab 10.1" [ref=e90] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/samsung_tab_7-500x500.jpg
+              - img "Samsung Galaxy Tab 10.1" [ref=e91] [cursor=pointer]
+          - listitem [ref=e92]:
+            - link "Samsung Galaxy Tab 10.1" [ref=e93] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/samsung_tab_6-500x500.jpg
+              - img "Samsung Galaxy Tab 10.1" [ref=e94] [cursor=pointer]
+          - listitem [ref=e95]:
+            - link "Samsung Galaxy Tab 10.1" [ref=e96] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/samsung_tab_5-500x500.jpg
+              - img "Samsung Galaxy Tab 10.1" [ref=e97] [cursor=pointer]
+          - listitem [ref=e98]:
+            - link "Samsung Galaxy Tab 10.1" [ref=e99] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/samsung_tab_4-500x500.jpg
+              - img "Samsung Galaxy Tab 10.1" [ref=e100] [cursor=pointer]
+          - listitem [ref=e101]:
+            - link "Samsung Galaxy Tab 10.1" [ref=e102] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/samsung_tab_3-500x500.jpg
+              - img "Samsung Galaxy Tab 10.1" [ref=e103] [cursor=pointer]
+          - listitem [ref=e104]:
+            - link "Samsung Galaxy Tab 10.1" [ref=e105] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/samsung_tab_2-500x500.jpg
+              - img "Samsung Galaxy Tab 10.1" [ref=e106] [cursor=pointer]
+        - list [ref=e107]:
+          - listitem [ref=e108]:
+            - link "Description" [ref=e109]:
+              - /url: "#tab-description"
+          - listitem [ref=e110]:
+            - link "Reviews (0)" [ref=e111] [cursor=pointer]:
+              - /url: "#tab-review"
+        - generic [ref=e112]:
+          - generic [ref=e113]:
+            - paragraph [ref=e114]: Samsung Galaxy Tab 10.1, is the world’s thinnest tablet, measuring 8.6 mm thickness, running with Android 3.0 Honeycomb OS on a 1GHz dual-core Tegra 2 processor, similar to its younger brother Samsung Galaxy Tab 8.9.
+            - paragraph [ref=e115]: Samsung Galaxy Tab 10.1 gives pure Android 3.0 experience, adding its new TouchWiz UX or TouchWiz 4.0 – includes a live panel, which lets you to customize with different content, such as your pictures, bookmarks, and social feeds, sporting a 10.1 inches WXGA capacitive touch screen with 1280 x 800 pixels of resolution, equipped with 3 megapixel rear camera with LED flash and a 2 megapixel front camera, HSPA+ connectivity up to 21Mbps, 720p HD video recording capability, 1080p HD playback, DLNA support, Bluetooth 2.1, USB 2.0, gyroscope, Wi-Fi 802.11 a/b/g/n, micro-SD slot, 3.5mm headphone jack, and SIM slot, including the Samsung Stick – a Bluetooth microphone that can be carried in a pocket like a pen and sound dock with powered subwoofer.
+            - paragraph [ref=e116]: Samsung Galaxy Tab 10.1 will come in 16GB / 32GB / 64GB verities and pre-loaded with Social Hub, Reader’s Hub, Music Hub and Samsung Mini Apps Tray – which gives you access to more commonly used apps to help ease multitasking and it is capable of Adobe Flash Player 10.2, powered by 6860mAh battery that gives you 10hours of video-playback time. äö
+          - text: "* * *"
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - button "" [ref=e119] [cursor=pointer]:
+            - generic [ref=e120] [cursor=pointer]: 
+          - button "" [ref=e121] [cursor=pointer]:
+            - generic [ref=e122] [cursor=pointer]: 
+        - heading "Samsung Galaxy Tab 10.1" [level=1] [ref=e123]
+        - list [ref=e124]:
+          - listitem [ref=e125]: "Product Code: SAM1"
+          - listitem [ref=e126]: "Reward Points: 1000"
+          - listitem [ref=e127]: "Availability: Pre-Order"
+        - list [ref=e128]:
+          - listitem [ref=e129]:
+            - heading "$199.99" [level=2] [ref=e130]
+          - listitem [ref=e131]: "Ex Tax: $199.99"
+        - generic [ref=e133]:
+          - generic [ref=e134]: Qty
+          - textbox "Qty" [ref=e135]: "1"
+          - button "Add to Cart" [active] [ref=e136] [cursor=pointer]
+        - generic [ref=e137]:
+          - paragraph [ref=e138]:
+            - generic [ref=e140]: 
+            - generic [ref=e142]: 
+            - generic [ref=e144]: 
+            - generic [ref=e146]: 
+            - generic [ref=e148]: 
+            - link "0 reviews" [ref=e149] [cursor=pointer]:
+              - /url: ""
+            - text: /
+            - link "Write a review" [ref=e150] [cursor=pointer]:
+              - /url: ""
+          - separator [ref=e151]
+  - contentinfo [ref=e152]:
+    - generic [ref=e153]:
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - heading "Information" [level=5] [ref=e156]
+          - list [ref=e157]:
+            - listitem [ref=e158]:
+              - link "About Us" [ref=e159] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=4
+            - listitem [ref=e160]:
+              - link "Delivery Information" [ref=e161] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=6
+            - listitem [ref=e162]:
+              - link "Privacy Policy" [ref=e163] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=3
+            - listitem [ref=e164]:
+              - link "Terms & Conditions" [ref=e165] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=5
+        - generic [ref=e166]:
+          - heading "Customer Service" [level=5] [ref=e167]
+          - list [ref=e168]:
+            - listitem [ref=e169]:
+              - link "Contact Us" [ref=e170] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/contact
+            - listitem [ref=e171]:
+              - link "Returns" [ref=e172] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/return/add
+            - listitem [ref=e173]:
+              - link "Site Map" [ref=e174] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/sitemap
+        - generic [ref=e175]:
+          - heading "Extras" [level=5] [ref=e176]
+          - list [ref=e177]:
+            - listitem [ref=e178]:
+              - link "Brands" [ref=e179] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=product/manufacturer
+            - listitem [ref=e180]:
+              - link "Gift Certificates" [ref=e181] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/voucher
+            - listitem [ref=e182]:
+              - link "Affiliate" [ref=e183] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=affiliate/login
+            - listitem [ref=e184]:
+              - link "Specials" [ref=e185] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=product/special
+        - generic [ref=e186]:
+          - heading "My Account" [level=5] [ref=e187]
+          - list [ref=e188]:
+            - listitem [ref=e189]:
+              - link "My Account" [ref=e190] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/account
+            - listitem [ref=e191]:
+              - link "Order History" [ref=e192] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/order
+            - listitem [ref=e193]:
+              - link "Wish List" [ref=e194] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/wishlist
+            - listitem [ref=e195]:
+              - link "Newsletter" [ref=e196] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/newsletter
+      - separator [ref=e197]
+      - paragraph [ref=e198]:
+        - text: Powered By
+        - link "OpenCart" [ref=e199] [cursor=pointer]:
+          - /url: http://www.opencart.com
+        - text: Your Store © 2025
+  - generic [ref=e200]:
+    - generic:
+      - link "Bitnami":
+        - /url: /bitnami/index.html
+        - img "Bitnami" [ref=e201] [cursor=pointer]
+```

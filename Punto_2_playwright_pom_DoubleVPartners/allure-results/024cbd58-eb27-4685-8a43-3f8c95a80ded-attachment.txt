@@ -1,0 +1,9 @@
+  LH:status Connecting to browser +0ms
+  LH:status Navigating to about:blank +10ms
+  LH:status Benchmarking machine +7ms
+  LH:status Host device pixel ratio +1s
+  LH:status Preparing target for navigation mode +4ms
+  LH:status Cleaning origin data +18ms
+  LH:status Cleaning browser cache +16ms
+  LH:status Preparing network conditions +16ms
+  LH:status Navigating to https://automationexercise.com/ +58ms

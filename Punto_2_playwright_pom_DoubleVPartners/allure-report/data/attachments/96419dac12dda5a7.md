@@ -1,0 +1,251 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - button "$ Currency " [ref=e7] [cursor=pointer]:
+        - strong [ref=e8] [cursor=pointer]: $
+        - generic [ref=e9] [cursor=pointer]: Currency
+        - generic [ref=e10] [cursor=pointer]: 
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link "" [ref=e14] [cursor=pointer]:
+            - /url: http://opencart.abstracta.us:80/index.php?route=information/contact
+            - generic [ref=e15] [cursor=pointer]: 
+          - generic [ref=e16]: "123456789"
+        - listitem [ref=e17]:
+          - link " My Account" [ref=e18] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=account/account
+            - generic [ref=e19] [cursor=pointer]: 
+            - generic [ref=e20] [cursor=pointer]: My Account
+        - listitem [ref=e22]:
+          - link " Wish List (0)" [ref=e23] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=account/wishlist
+            - generic [ref=e24] [cursor=pointer]: 
+            - generic [ref=e25] [cursor=pointer]: Wish List (0)
+        - listitem [ref=e26]:
+          - link " Shopping Cart" [ref=e27] [cursor=pointer]:
+            - /url: http://opencart.abstracta.us:80/index.php?route=checkout/cart
+            - generic [ref=e28] [cursor=pointer]: 
+            - generic [ref=e29] [cursor=pointer]: Shopping Cart
+        - listitem [ref=e30]:
+          - link " Checkout" [ref=e31] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=checkout/checkout
+            - generic [ref=e32] [cursor=pointer]: 
+            - generic [ref=e33] [cursor=pointer]: Checkout
+  - banner [ref=e34]:
+    - generic [ref=e36]:
+      - heading "Your Store" [level=1] [ref=e39]:
+        - link "Your Store" [ref=e40] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=common/home
+      - generic [ref=e42]:
+        - textbox "Search" [active] [ref=e43]: Sansun
+        - button "" [ref=e45] [cursor=pointer]:
+          - generic [ref=e46] [cursor=pointer]: 
+      - generic [ref=e48]:
+        - button " 1 item(s) - $2,000.00" [ref=e49] [cursor=pointer]:
+          - generic [ref=e50] [cursor=pointer]:
+            - generic [ref=e51] [cursor=pointer]: 
+            - text: 1 item(s) - $2,000.00
+        - text:   
+  - navigation [ref=e53]:
+    - generic: 
+    - list [ref=e55]:
+      - listitem [ref=e56]:
+        - link "Desktops" [ref=e57] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=20
+      - listitem [ref=e58]:
+        - link "Laptops & Notebooks" [ref=e59] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=18
+      - listitem [ref=e60]:
+        - link "Components" [ref=e61] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=25
+      - listitem [ref=e62]:
+        - link "Tablets" [ref=e63] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=57
+      - listitem [ref=e64]:
+        - link "Software" [ref=e65] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=17
+      - listitem [ref=e66]:
+        - link "Phones & PDAs" [ref=e67] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=24
+      - listitem [ref=e68]:
+        - link "Cameras" [ref=e69] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=33
+      - listitem [ref=e70]:
+        - link "MP3 Players" [ref=e71] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=34
+  - generic [ref=e72]:
+    - list [ref=e73]:
+      - listitem [ref=e74]:
+        - link "" [ref=e75] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=common/home
+          - generic [ref=e76] [cursor=pointer]: 
+      - listitem [ref=e77]:
+        - link "Laptops & Notebooks" [ref=e78] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=18
+      - listitem [ref=e79]:
+        - link "MacBook Pro" [ref=e80] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/product&path=18&product_id=45
+    - generic [ref=e81]:
+      - text: "Success: You have added"
+      - link "MacBook Pro" [ref=e82] [cursor=pointer]:
+        - /url: http://opencart.abstracta.us:80/index.php?route=product/product&product_id=45
+      - text: to your
+      - link "shopping cart" [ref=e83] [cursor=pointer]:
+        - /url: http://opencart.abstracta.us:80/index.php?route=checkout/cart
+      - text: "!"
+      - button "×" [ref=e84] [cursor=pointer]
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - list [ref=e89]:
+          - listitem [ref=e90]:
+            - link "MacBook Pro" [ref=e91] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/macbook_pro_1-500x500.jpg
+              - img "MacBook Pro" [ref=e92] [cursor=pointer]
+          - listitem [ref=e93]:
+            - link "MacBook Pro" [ref=e94] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/macbook_pro_2-500x500.jpg
+              - img "MacBook Pro" [ref=e95] [cursor=pointer]
+          - listitem [ref=e96]:
+            - link "MacBook Pro" [ref=e97] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/macbook_pro_3-500x500.jpg
+              - img "MacBook Pro" [ref=e98] [cursor=pointer]
+          - listitem [ref=e99]:
+            - link "MacBook Pro" [ref=e100] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/image/cache/catalog/demo/macbook_pro_4-500x500.jpg
+              - img "MacBook Pro" [ref=e101] [cursor=pointer]
+        - list [ref=e102]:
+          - listitem [ref=e103]:
+            - link "Description" [ref=e104]:
+              - /url: "#tab-description"
+          - listitem [ref=e105]:
+            - link "Reviews (0)" [ref=e106] [cursor=pointer]:
+              - /url: "#tab-review"
+        - generic [ref=e107]:
+          - generic [ref=e110]:
+            - paragraph [ref=e111]:
+              - generic [ref=e112]: Latest Intel mobile architecture
+            - paragraph [ref=e113]: Powered by the most advanced mobile processors from Intel, the new Core 2 Duo MacBook Pro is over 50% faster than the original Core Duo MacBook Pro and now supports up to 4GB of RAM.
+            - paragraph [ref=e114]:
+              - generic [ref=e115]: Leading-edge graphics
+            - paragraph [ref=e116]: The NVIDIA GeForce 8600M GT delivers exceptional graphics processing power. For the ultimate creative canvas, you can even configure the 17-inch model with a 1920-by-1200 resolution display.
+            - paragraph [ref=e117]:
+              - generic [ref=e118]: Designed for life on the road
+            - paragraph [ref=e119]: Innovations such as a magnetic power connection and an illuminated keyboard with ambient light sensor put the MacBook Pro in a class by itself.
+            - paragraph [ref=e120]:
+              - generic [ref=e121]: Connect. Create. Communicate.
+            - paragraph [ref=e122]: Quickly set up a video conference with the built-in iSight camera. Control presentations and media from up to 30 feet away with the included Apple Remote. Connect to high-bandwidth peripherals with FireWire 800 and DVI.
+            - paragraph [ref=e123]:
+              - generic [ref=e124]: Next-generation wireless
+            - paragraph [ref=e125]: Featuring 802.11n wireless technology, the MacBook Pro delivers up to five times the performance and up to twice the range of previous-generation technologies.
+          - text: "* * *"
+      - generic [ref=e126]:
+        - generic [ref=e127]:
+          - button "" [ref=e128] [cursor=pointer]:
+            - generic [ref=e129] [cursor=pointer]: 
+          - button "" [ref=e130] [cursor=pointer]:
+            - generic [ref=e131] [cursor=pointer]: 
+        - heading "MacBook Pro" [level=1] [ref=e132]
+        - list [ref=e133]:
+          - listitem [ref=e134]:
+            - text: Brands
+            - link "Apple" [ref=e135] [cursor=pointer]:
+              - /url: http://opencart.abstracta.us:80/index.php?route=product/manufacturer/info&manufacturer_id=8
+          - listitem [ref=e136]: "Product Code: Product 18"
+          - listitem [ref=e137]: "Reward Points: 800"
+          - listitem [ref=e138]: "Availability: Out Of Stock"
+        - list [ref=e139]:
+          - listitem [ref=e140]:
+            - heading "$2,000.00" [level=2] [ref=e141]
+          - listitem [ref=e142]: "Ex Tax: $2,000.00"
+        - generic [ref=e144]:
+          - generic [ref=e145]: Qty
+          - textbox "Qty" [ref=e146]: "1"
+          - button "Add to Cart" [ref=e147] [cursor=pointer]
+        - generic [ref=e148]:
+          - paragraph [ref=e149]:
+            - generic [ref=e151]: 
+            - generic [ref=e153]: 
+            - generic [ref=e155]: 
+            - generic [ref=e157]: 
+            - generic [ref=e159]: 
+            - link "0 reviews" [ref=e160] [cursor=pointer]:
+              - /url: ""
+            - text: /
+            - link "Write a review" [ref=e161] [cursor=pointer]:
+              - /url: ""
+          - separator [ref=e162]
+  - contentinfo [ref=e163]:
+    - generic [ref=e164]:
+      - generic [ref=e165]:
+        - generic [ref=e166]:
+          - heading "Information" [level=5] [ref=e167]
+          - list [ref=e168]:
+            - listitem [ref=e169]:
+              - link "About Us" [ref=e170] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=4
+            - listitem [ref=e171]:
+              - link "Delivery Information" [ref=e172] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=6
+            - listitem [ref=e173]:
+              - link "Privacy Policy" [ref=e174] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=3
+            - listitem [ref=e175]:
+              - link "Terms & Conditions" [ref=e176] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=5
+        - generic [ref=e177]:
+          - heading "Customer Service" [level=5] [ref=e178]
+          - list [ref=e179]:
+            - listitem [ref=e180]:
+              - link "Contact Us" [ref=e181] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/contact
+            - listitem [ref=e182]:
+              - link "Returns" [ref=e183] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/return/add
+            - listitem [ref=e184]:
+              - link "Site Map" [ref=e185] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/sitemap
+        - generic [ref=e186]:
+          - heading "Extras" [level=5] [ref=e187]
+          - list [ref=e188]:
+            - listitem [ref=e189]:
+              - link "Brands" [ref=e190] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=product/manufacturer
+            - listitem [ref=e191]:
+              - link "Gift Certificates" [ref=e192] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/voucher
+            - listitem [ref=e193]:
+              - link "Affiliate" [ref=e194] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=affiliate/login
+            - listitem [ref=e195]:
+              - link "Specials" [ref=e196] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=product/special
+        - generic [ref=e197]:
+          - heading "My Account" [level=5] [ref=e198]
+          - list [ref=e199]:
+            - listitem [ref=e200]:
+              - link "My Account" [ref=e201] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/account
+            - listitem [ref=e202]:
+              - link "Order History" [ref=e203] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/order
+            - listitem [ref=e204]:
+              - link "Wish List" [ref=e205] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/wishlist
+            - listitem [ref=e206]:
+              - link "Newsletter" [ref=e207] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/newsletter
+      - separator [ref=e208]
+      - paragraph [ref=e209]:
+        - text: Powered By
+        - link "OpenCart" [ref=e210] [cursor=pointer]:
+          - /url: http://www.opencart.com
+        - text: Your Store © 2025
+  - generic [ref=e211]:
+    - generic:
+      - link "Bitnami":
+        - /url: /bitnami/index.html
+        - img "Bitnami" [ref=e212] [cursor=pointer]
+```

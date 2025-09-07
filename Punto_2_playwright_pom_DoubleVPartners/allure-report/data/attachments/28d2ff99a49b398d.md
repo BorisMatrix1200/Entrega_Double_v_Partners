@@ -1,0 +1,230 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - button "$ Currency " [ref=e7] [cursor=pointer]:
+        - strong [ref=e8] [cursor=pointer]: $
+        - generic [ref=e9] [cursor=pointer]: Currency
+        - generic [ref=e10] [cursor=pointer]: 
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - link "" [ref=e14] [cursor=pointer]:
+            - /url: http://opencart.abstracta.us:80/index.php?route=information/contact
+            - generic [ref=e15] [cursor=pointer]: 
+          - generic [ref=e16]: "123456789"
+        - listitem [ref=e17]:
+          - link " My Account" [ref=e18] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=account/account
+            - generic [ref=e19] [cursor=pointer]: 
+            - generic [ref=e20] [cursor=pointer]: My Account
+        - listitem [ref=e22]:
+          - link " Wish List (0)" [ref=e23] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=account/wishlist
+            - generic [ref=e24] [cursor=pointer]: 
+            - generic [ref=e25] [cursor=pointer]: Wish List (0)
+        - listitem [ref=e26]:
+          - link " Shopping Cart" [ref=e27] [cursor=pointer]:
+            - /url: http://opencart.abstracta.us:80/index.php?route=checkout/cart
+            - generic [ref=e28] [cursor=pointer]: 
+            - generic [ref=e29] [cursor=pointer]: Shopping Cart
+        - listitem [ref=e30]:
+          - link " Checkout" [ref=e31] [cursor=pointer]:
+            - /url: https://opencart.abstracta.us:443/index.php?route=checkout/checkout
+            - generic [ref=e32] [cursor=pointer]: 
+            - generic [ref=e33] [cursor=pointer]: Checkout
+  - banner [ref=e34]:
+    - generic [ref=e36]:
+      - heading "Your Store" [level=1] [ref=e39]:
+        - link "Your Store" [ref=e40] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=common/home
+      - generic [ref=e42]:
+        - textbox "Search" [ref=e43]
+        - button "" [ref=e45] [cursor=pointer]:
+          - generic [ref=e46] [cursor=pointer]: 
+      - generic [ref=e48]:
+        - button " 2 item(s) - $399.98" [ref=e49] [cursor=pointer]:
+          - generic [ref=e50] [cursor=pointer]: 
+          - generic [ref=e51] [cursor=pointer]: 2 item(s) - $399.98
+        - text:   
+  - navigation [ref=e53]:
+    - generic: 
+    - list [ref=e55]:
+      - listitem [ref=e56]:
+        - link "Desktops" [ref=e57] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=20
+      - listitem [ref=e58]:
+        - link "Laptops & Notebooks" [ref=e59] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=18
+      - listitem [ref=e60]:
+        - link "Components" [ref=e61] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=25
+      - listitem [ref=e62]:
+        - link "Tablets" [ref=e63] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=57
+      - listitem [ref=e64]:
+        - link "Software" [ref=e65] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=17
+      - listitem [ref=e66]:
+        - link "Phones & PDAs" [ref=e67] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=24
+      - listitem [ref=e68]:
+        - link "Cameras" [ref=e69] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=33
+      - listitem [ref=e70]:
+        - link "MP3 Players" [ref=e71] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=product/category&path=34
+  - generic [ref=e72]:
+    - list [ref=e73]:
+      - listitem [ref=e74]:
+        - link "" [ref=e75] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=common/home
+          - generic [ref=e76] [cursor=pointer]: 
+      - listitem [ref=e77]:
+        - link "Shopping Cart" [ref=e78] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=checkout/cart
+    - generic [ref=e79]:
+      - generic [ref=e80]: 
+      - text: Products marked with *** are not available in the desired quantity or not in stock!
+      - button "×" [ref=e81] [cursor=pointer]
+    - generic [ref=e83]:
+      - heading "Use Gift Certificate (0.00kg)" [level=1] [ref=e84]
+      - table [ref=e87]:
+        - rowgroup [ref=e88]:
+          - row "Image Product Name Model Quantity Unit Price Total" [ref=e89]:
+            - cell "Image" [ref=e90]
+            - cell "Product Name" [ref=e91]
+            - cell "Model" [ref=e92]
+            - cell "Quantity" [ref=e93]
+            - cell "Unit Price" [ref=e94]
+            - cell "Total" [ref=e95]
+        - rowgroup [ref=e96]:
+          - 'row "Samsung Galaxy Tab 10.1 Samsung Galaxy Tab 10.1 *** Reward Points: 2000 SAM1 2   $199.99 $399.98" [ref=e97]':
+            - cell "Samsung Galaxy Tab 10.1" [ref=e98]:
+              - link "Samsung Galaxy Tab 10.1" [ref=e99] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=product/product&product_id=49
+                - img "Samsung Galaxy Tab 10.1" [ref=e100] [cursor=pointer]
+            - 'cell "Samsung Galaxy Tab 10.1 *** Reward Points: 2000" [ref=e101]':
+              - link "Samsung Galaxy Tab 10.1" [ref=e102] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=product/product&product_id=49
+              - generic [ref=e103]: "***"
+              - generic [ref=e104]: "Reward Points: 2000"
+            - cell "SAM1" [ref=e105]
+            - cell "2  " [ref=e106]:
+              - generic [ref=e107]:
+                - textbox [ref=e108]: "2"
+                - generic [ref=e109]:
+                  - button "" [ref=e110] [cursor=pointer]:
+                    - generic [ref=e111] [cursor=pointer]: 
+                  - button "" [ref=e112] [cursor=pointer]:
+                    - generic [ref=e113] [cursor=pointer]: 
+            - cell "$199.99" [ref=e114]
+            - cell "$399.98" [ref=e115]
+      - heading "What would you like to do next?" [level=2] [ref=e116]
+      - paragraph [ref=e117]: Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.
+      - generic [ref=e118]:
+        - heading "Use Coupon Code " [level=4] [ref=e121]:
+          - link "Use Coupon Code " [ref=e122] [cursor=pointer]:
+            - /url: "#collapse-coupon"
+            - text: Use Coupon Code
+            - generic [ref=e123] [cursor=pointer]: 
+        - generic [ref=e124]:
+          - heading "Estimate Shipping & Taxes " [level=4] [ref=e126]:
+            - link "Estimate Shipping & Taxes " [ref=e127] [cursor=pointer]:
+              - /url: "#collapse-shipping"
+              - text: Estimate Shipping & Taxes
+              - generic [ref=e128] [cursor=pointer]: 
+          - text: "* * *"
+        - heading "Use Gift Certificate " [level=4] [ref=e131]:
+          - link "Use Gift Certificate " [ref=e132] [cursor=pointer]:
+            - /url: "#collapse-voucher"
+            - text: Use Gift Certificate
+            - generic [ref=e133] [cursor=pointer]: 
+      - table [ref=e136]:
+        - rowgroup [ref=e137]:
+          - 'row "Sub-Total: $399.98" [ref=e138]':
+            - cell "Sub-Total:" [ref=e139]:
+              - strong [ref=e140]: "Sub-Total:"
+            - cell "$399.98" [ref=e141]
+          - 'row "Total: $399.98" [ref=e142]':
+            - cell "Total:" [ref=e143]:
+              - strong [ref=e144]: "Total:"
+            - cell "$399.98" [ref=e145]
+      - generic [ref=e146]:
+        - link "Continue Shopping" [ref=e148] [cursor=pointer]:
+          - /url: http://opencart.abstracta.us:80/index.php?route=common/home
+        - link "Checkout" [ref=e150] [cursor=pointer]:
+          - /url: https://opencart.abstracta.us:443/index.php?route=checkout/checkout
+  - contentinfo [ref=e151]:
+    - generic [ref=e152]:
+      - generic [ref=e153]:
+        - generic [ref=e154]:
+          - heading "Information" [level=5] [ref=e155]
+          - list [ref=e156]:
+            - listitem [ref=e157]:
+              - link "About Us" [ref=e158] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=4
+            - listitem [ref=e159]:
+              - link "Delivery Information" [ref=e160] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=6
+            - listitem [ref=e161]:
+              - link "Privacy Policy" [ref=e162] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=3
+            - listitem [ref=e163]:
+              - link "Terms & Conditions" [ref=e164] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/information&information_id=5
+        - generic [ref=e165]:
+          - heading "Customer Service" [level=5] [ref=e166]
+          - list [ref=e167]:
+            - listitem [ref=e168]:
+              - link "Contact Us" [ref=e169] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/contact
+            - listitem [ref=e170]:
+              - link "Returns" [ref=e171] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/return/add
+            - listitem [ref=e172]:
+              - link "Site Map" [ref=e173] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=information/sitemap
+        - generic [ref=e174]:
+          - heading "Extras" [level=5] [ref=e175]
+          - list [ref=e176]:
+            - listitem [ref=e177]:
+              - link "Brands" [ref=e178] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=product/manufacturer
+            - listitem [ref=e179]:
+              - link "Gift Certificates" [ref=e180] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/voucher
+            - listitem [ref=e181]:
+              - link "Affiliate" [ref=e182] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=affiliate/login
+            - listitem [ref=e183]:
+              - link "Specials" [ref=e184] [cursor=pointer]:
+                - /url: http://opencart.abstracta.us:80/index.php?route=product/special
+        - generic [ref=e185]:
+          - heading "My Account" [level=5] [ref=e186]
+          - list [ref=e187]:
+            - listitem [ref=e188]:
+              - link "My Account" [ref=e189] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/account
+            - listitem [ref=e190]:
+              - link "Order History" [ref=e191] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/order
+            - listitem [ref=e192]:
+              - link "Wish List" [ref=e193] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/wishlist
+            - listitem [ref=e194]:
+              - link "Newsletter" [ref=e195] [cursor=pointer]:
+                - /url: https://opencart.abstracta.us:443/index.php?route=account/newsletter
+      - separator [ref=e196]
+      - paragraph [ref=e197]:
+        - text: Powered By
+        - link "OpenCart" [ref=e198] [cursor=pointer]:
+          - /url: http://www.opencart.com
+        - text: Your Store © 2025
+  - generic [ref=e199]:
+    - generic:
+      - link "Bitnami":
+        - /url: /bitnami/index.html
+        - img "Bitnami" [ref=e200] [cursor=pointer]
+```

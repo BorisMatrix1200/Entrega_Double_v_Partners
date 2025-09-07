@@ -1,0 +1,21 @@
+  LH:status Connecting to browser +0ms
+  LH:status Navigating to about:blank +11ms
+  LH:status Benchmarking machine +6ms
+  LH:status Host device pixel ratio +1s
+  LH:status Preparing target for navigation mode +4ms
+  LH:status Cleaning origin data +18ms
+  LH:status Cleaning browser cache +28ms
+  LH:status Preparing network conditions +15ms
+  LH:status Navigating to https://automationexercise.com/ +66ms
+  LH:status Getting artifact: DevtoolsLog +25s
+  LH:status Getting artifact: Trace +1ms
+  LH:status Getting artifact: Accessibility +0ms
+  LH:status Getting artifact: ConsoleMessages +657ms
+  LH:status Getting artifact: CSSUsage +0ms
+  LH:status Getting artifact: DOMStats +71ms
+  LH:status Getting artifact: ImageElements +11ms
+  LH:status Getting artifact: JsUsage +320ms
+  LH:status Getting artifact: LinkElements +0ms
+  LH:status Getting artifact: MetaElements +5ms
+  LH:status Getting artifact: NetworkUserAgent +8ms
+  LH:status Getting artifact: OptimizedImages +0ms

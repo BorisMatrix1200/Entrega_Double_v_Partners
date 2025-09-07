@@ -1,0 +1,112 @@
+  LH:status Connecting to browser +0ms
+  LH:status Navigating to about:blank +8ms
+  LH:status Benchmarking machine +8ms
+  LH:status Host device pixel ratio +1s
+  LH:status Preparing target for navigation mode +33ms
+  LH:status Cleaning origin data +45ms
+  LH:status Cleaning browser cache +28ms
+  LH:status Preparing network conditions +36ms
+  LH:status Navigating to https://automationexercise.com/ +60ms
+  LH:status Getting artifact: DevtoolsLog +20s
+  LH:status Getting artifact: Trace +0ms
+  LH:status Getting artifact: Accessibility +0ms
+  LH:status Getting artifact: ConsoleMessages +661ms
+  LH:status Getting artifact: CSSUsage +1ms
+  LH:status Getting artifact: DOMStats +102ms
+  LH:status Getting artifact: ImageElements +5ms
+  LH:status Getting artifact: JsUsage +365ms
+  LH:status Getting artifact: LinkElements +0ms
+  LH:status Getting artifact: MetaElements +5ms
+  LH:status Getting artifact: NetworkUserAgent +6ms
+  LH:status Getting artifact: OptimizedImages +0ms
+  LH:status Getting artifact: ResponseCompression +2s
+  LH:status Getting artifact: Scripts +1ms
+  LH:status Getting artifact: SourceMaps +0ms
+  LH:status Getting artifact: Stacks +0ms
+  LH:status Collect stacks +0ms
+  LH:status Getting artifact: Stylesheets +24ms
+  LH:status Getting artifact: TraceElements +32ms
+  LH:status Trace Engine total +160ms
+  LH:status Trace Engine parse +0ms
+  LH:status Trace Engine parse:handleEvent +1ms
+  LH:status Trace Engine parse:Meta:finalize +394ms
+  LH:status Trace Engine parse:AnimationFrames:finalize +1ms
+  LH:status Trace Engine parse:Animations:finalize +35ms
+  LH:status Trace Engine parse:Samples:finalize +8ms
+  LH:status Trace Engine parse:AuctionWorklets:finalize +4ms
+  LH:status Trace Engine parse:NetworkRequests:finalize +12ms
+  LH:status Trace Engine parse:Renderer:finalize +13ms
+  LH:status Trace Engine parse:Flows:finalize +129ms
+  LH:status Trace Engine parse:AsyncJSCalls:finalize +27ms
+  LH:status Trace Engine parse:DOMStats:finalize +57ms
+  LH:status Trace Engine parse:UserTimings:finalize +11ms
+  LH:status Trace Engine parse:ExtensionTraceData:finalize +13ms
+  LH:status Trace Engine parse:LayerTree:finalize +4ms
+  LH:status Trace Engine parse:Frames:finalize +14ms
+  LH:status Trace Engine parse:GPU:finalize +77ms
+  LH:status Trace Engine parse:ImagePainting:finalize +5ms
+  LH:status Trace Engine parse:Initiators:finalize +1ms
+  LH:status Trace Engine parse:Invalidations:finalize +5ms
+  LH:status Trace Engine parse:PageLoadMetrics:finalize +10ms
+  LH:status Trace Engine parse:LargestImagePaint:finalize +6ms
+  LH:status Trace Engine parse:LargestTextPaint:finalize +12ms
+  LH:status Trace Engine parse:Screenshots:finalize +4ms
+  LH:status Trace Engine parse:LayoutShifts:finalize +84ms
+  LH:status Trace Engine parse:Memory:finalize +15ms
+  LH:status Trace Engine parse:PageFrames:finalize +2ms
+  LH:status Trace Engine parse:Scripts:finalize +10ms
+  LH:status Trace Engine parse:SelectorStats:finalize +4ms
+  LH:status Trace Engine parse:UserInteractions:finalize +14ms
+  LH:status Trace Engine parse:Workers:finalize +5ms
+  LH:status Trace Engine parse:Warnings:finalize +11ms
+  LH:status Trace Engine parse:clone +4ms
+  LH:status Trace Engine insights +33ms
+  LH:status Trace Engine insights:CLSCulprits +1ms
+  LH:status Trace Engine insights:Cache +1ms
+  LH:status Trace Engine insights:DOMSize +0ms
+  LH:status Trace Engine insights:DocumentLatency +1ms
+  LH:status Trace Engine insights:DuplicatedJavaScript +0ms
+  LH:status Trace Engine insights:FontDisplay +1ms
+  LH:status Trace Engine insights:ForcedReflow +0ms
+  LH:status Trace Engine insights:INPBreakdown +1ms
+  LH:status Trace Engine insights:ImageDelivery +0ms
+  LH:status Trace Engine insights:LCPBreakdown +0ms
+  LH:status Trace Engine insights:LCPDiscovery +0ms
+  LH:status Trace Engine insights:LegacyJavaScript +0ms
+  LH:status Trace Engine insights:ModernHTTP +0ms
+  LH:status Trace Engine insights:NetworkDependencyTree +1ms
+  LH:status Trace Engine insights:RenderBlocking +0ms
+  LH:status Trace Engine insights:SlowCSSSelector +0ms
+  LH:status Trace Engine insights:ThirdParties +0ms
+  LH:status Trace Engine insights:Viewport +3ms
+  LH:status Trace Engine insights:createLanternContext +0ms
+  LH:status Trace Engine insights:CLSCulprits +158ms
+  LH:status Trace Engine insights:Cache +2ms
+  LH:status Trace Engine insights:DOMSize +4ms
+  LH:status Trace Engine insights:DocumentLatency +1ms
+  LH:status Trace Engine insights:DuplicatedJavaScript +0ms
+  LH:status Trace Engine insights:FontDisplay +1ms
+  LH:status Trace Engine insights:ForcedReflow +0ms
+  LH:status Trace Engine insights:INPBreakdown +1ms
+  LH:status Trace Engine insights:ImageDelivery +0ms
+  LH:status Trace Engine insights:LCPBreakdown +4ms
+  LH:status Trace Engine insights:LCPDiscovery +1ms
+  LH:status Trace Engine insights:LegacyJavaScript +0ms
+  LH:status Trace Engine insights:ModernHTTP +52ms
+  LH:status Trace Engine insights:NetworkDependencyTree +3ms
+  LH:status Trace Engine insights:RenderBlocking +2ms
+  LH:status Trace Engine insights:SlowCSSSelector +1ms
+  LH:status Trace Engine insights:ThirdParties +0ms
+  LH:status Trace Engine insights:Viewport +52ms
+  LH:method <= browser ERR:error DOM.resolveNode  +0ms
+  LH:method <= browser ERR:error DOM.resolveNode  +3ms
+  LH:method <= browser ERR:error DOM.resolveNode  +1ms
+  LH:method <= browser ERR:error DOM.resolveNode  +0ms
+  LH:method <= browser ERR:error DOM.resolveNode  +1ms
+  LH:method <= browser ERR:error DOM.resolveNode  +1ms
+  LH:method <= browser ERR:error DOM.resolveNode  +1ms
+  LH:method <= browser ERR:error DOM.resolveNode  +1ms
+  LH:method <= browser ERR:error DOM.resolveNode  +0ms
+  LH:status Getting artifact: ViewportDimensions +147ms
+  LH:status Getting artifact: FullPageScreenshot +1ms
+  LH:status Getting artifact: BFCacheFailures +2s
